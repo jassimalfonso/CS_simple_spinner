@@ -17,7 +17,7 @@ body {
 	border: 12px solid ghostwhite;
 	border-top-color: blueviolet;
 	border-radius: 50%;
-	animation: spin 1s ease-in-out 0.5s infinite;
+	animation: spin 1s ease-in-out infinite;
 }
 
 @keyframes spin {
