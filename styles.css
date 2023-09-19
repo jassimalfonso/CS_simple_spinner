@@ -14,10 +14,10 @@ body {
 .spinner {
 	height: 100px;
 	width: 100px;
-	border: 12px solid ghostwhite;
+	border: 15px solid ghostwhite;
 	border-top-color: blueviolet;
 	border-radius: 50%;
-	animation: spin 1s ease-in-out infinite;
+	animation: spin 1.5s ease-in-out infinite;
 }
 
 @keyframes spin {
